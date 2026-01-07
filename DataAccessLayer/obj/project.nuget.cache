@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TR9GBpJ9MB14dTrL8k1guvZ01w6s272HtbhnFaNqSfDRc67mz4d6ga765f5tOhk+xTuObp3CqnN6PqinXr0P/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DURVESH\\source\\repos\\eCommerceSolution.ProductsService\\DataAccessLayer\\DataAccessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DURVESH\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

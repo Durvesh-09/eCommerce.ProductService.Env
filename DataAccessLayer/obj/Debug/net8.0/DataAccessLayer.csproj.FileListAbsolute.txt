@@ -1,0 +1,12 @@
+C:\Users\DURVESH\source\repos\eCommerceSolution.ProductsService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\DURVESH\source\repos\eCommerceSolution.ProductsService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\DURVESH\source\repos\eCommerceSolution.ProductsService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\DURVESH\source\repos\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\DURVESH\source\repos\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DURVESH\source\repos\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\DURVESH\source\repos\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\DURVESH\source\repos\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DURVESH\source\repos\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\DURVESH\source\repos\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\DURVESH\source\repos\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\DURVESH\source\repos\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
