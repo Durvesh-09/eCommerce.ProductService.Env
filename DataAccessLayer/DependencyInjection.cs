@@ -1,4 +1,6 @@
 ﻿using eCommerce.DataAccessLayer.Context;
+using eCommerce.DataAccessLayer.Repositories;
+using eCommerce.DataAccessLayer.RepositoryContracts;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -11,6 +13,8 @@ namespace eCommerce.ProductsService.DataAccessLayer
         {
             // To Do : Add Data Access Layer services into the Ioc Container
             services.AddDbContext<ApplicationDbContext>(options => options.UseMySQL(configuration.GetConnectionString("DefaultConnection")!));
+
+            services.AddScoped<IProductsRepository, ProductsRepository>();
             return services;
         }
     }
