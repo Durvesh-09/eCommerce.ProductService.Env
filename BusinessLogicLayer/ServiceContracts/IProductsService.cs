@@ -46,6 +46,6 @@ namespace eCommerce.BusinessLogicLayer.ServiceContracts
         /// </summary>
         /// <param name="productID">ProductID to search and delete</param>
         /// <returns>Returns true if the deletion is successful; otherwise false</returns>
-        Task<ProductResponse?> DeleteProduct(Guid productID);
+        Task<bool> DeleteProduct(Guid productID);
     }
 }
